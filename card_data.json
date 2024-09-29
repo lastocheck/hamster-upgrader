@@ -1,0 +1,866 @@
+[
+  {
+    "tab": "PR&Team",
+    "name": "CEO",
+    "profit": 338,
+    "price": 10110614
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Marketing",
+    "profit": 221,
+    "price": 4001113
+  },
+  {
+    "tab": "PR&Team",
+    "name": "IT team",
+    "profit": 811,
+    "price": 20221228
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Support team",
+    "profit": 221,
+    "price": 3000835
+  },
+  {
+    "tab": "PR&Team",
+    "name": "HamsterBook",
+    "profit": 237,
+    "price": 5055307
+  },
+  {
+    "tab": "PR&Team",
+    "name": "HamsterTube",
+    "profit": 304,
+    "price": 6066368
+  },
+  {
+    "tab": "PR&Team",
+    "name": "X",
+    "profit": 270,
+    "price": 5560838
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Cointelegraph",
+    "profit": 135,
+    "price": 3538715
+  },
+  {
+    "tab": "PR&Team",
+    "name": "HamsterGram",
+    "profit": 158,
+    "price": 2000557
+  },
+  {
+    "tab": "PR&Team",
+    "name": "TikTok",
+    "profit": 338,
+    "price": 7582960
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Сoindesk",
+    "profit": 253,
+    "price": 4001113
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Influencers",
+    "profit": 913,
+    "price": 25276535
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Partnership program",
+    "profit": 237,
+    "price": 5055307
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Product team",
+    "profit": 316,
+    "price": 4001113
+  },
+  {
+    "tab": "PR&Team",
+    "name": "BisDev team",
+    "profit": 158,
+    "price": 2000557
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Two factor authentication",
+    "profit": 422,
+    "price": 10110614
+  },
+  {
+    "tab": "PR&Team",
+    "name": "UX and UI team",
+    "profit": 591,
+    "price": 7684067
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Security team",
+    "profit": 676,
+    "price": 10110614
+  },
+  {
+    "tab": "PR&Team",
+    "name": "QA team",
+    "profit": 642,
+    "price": 12891033
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Antihacking shield",
+    "profit": 347,
+    "price": 8002226
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Risk management team",
+    "profit": 896,
+    "price": 20221228
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Security Audition",
+    "profit": 295,
+    "price": 4987636
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Anonymous transactions ban",
+    "profit": 1090,
+    "price": 24143822
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Blocking suspicious accounts",
+    "profit": 541,
+    "price": 12638267
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Tokenomics expert",
+    "profit": 1580,
+    "price": 20005566
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Consensus Explorer pass",
+    "profit": 4740,
+    "price": 100027831
+  },
+  {
+    "tab": "PR&Team",
+    "name": "VC Labs",
+    "profit": 1480,
+    "price": 25769450
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Compliance officer",
+    "profit": 354,
+    "price": 5818908
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Welcome to Amsterdam",
+    "profit": 1100,
+    "price": 30331842
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Development Hub Mumbai",
+    "profit": 11810,
+    "price": 149629067
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Data Сenter Tokyo",
+    "profit": 19190,
+    "price": 332509038
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Leaderboards",
+    "profit": 2210,
+    "price": 33250904
+  },
+  {
+    "tab": "PR&Team",
+    "name": "Minigame",
+    "profit": 2950,
+    "price": 66501808
+  },
+  {
+    "tab": "Markets",
+    "name": "Fan tokens",
+    "profit": 3000,
+    "price": 40011132
+  },
+  {
+    "tab": "Markets",
+    "name": "Staking",
+    "profit": 2029.9999999999998,
+    "price": 35387149
+  },
+  {
+    "tab": "Markets",
+    "name": "BTC pairs",
+    "profit": 135,
+    "price": 2527653
+  },
+  {
+    "tab": "Markets",
+    "name": "ETH pairs",
+    "profit": 135,
+    "price": 3033184
+  },
+  {
+    "tab": "Markets",
+    "name": "Top 10 cmc pairs",
+    "profit": 253,
+    "price": 4001113
+  },
+  {
+    "tab": "Markets",
+    "name": "GameFi tokens",
+    "profit": 237,
+    "price": 5055307
+  },
+  {
+    "tab": "Markets",
+    "name": "Defi2.0 tokens",
+    "profit": 126,
+    "price": 2000557
+  },
+  {
+    "tab": "Markets",
+    "name": "SocialFi tokens",
+    "profit": 158,
+    "price": 2000557
+  },
+  {
+    "tab": "Markets",
+    "name": "Meme coins",
+    "profit": 347,
+    "price": 8002226
+  },
+  {
+    "tab": "Markets",
+    "name": "Shit coins",
+    "profit": 1990,
+    "price": 50553069
+  },
+  {
+    "tab": "Markets",
+    "name": "Margin trading x10",
+    "profit": 929,
+    "price": 25276535
+  },
+  {
+    "tab": "Markets",
+    "name": "Margin trading x20",
+    "profit": 1180,
+    "price": 25276535
+  },
+  {
+    "tab": "Markets",
+    "name": "Margin trading x30",
+    "profit": 1690,
+    "price": 35387149
+  },
+  {
+    "tab": "Markets",
+    "name": "Margin trading x50",
+    "profit": 3720,
+    "price": 101106139
+  },
+  {
+    "tab": "Markets",
+    "name": "Margin trading x75",
+    "profit": 3720,
+    "price": 75829604
+  },
+  {
+    "tab": "Markets",
+    "name": "Margin trading x100",
+    "profit": 3300,
+    "price": 50553069
+  },
+  {
+    "tab": "Markets",
+    "name": "Derivatives",
+    "profit": 1670,
+    "price": 25276535
+  },
+  {
+    "tab": "Markets",
+    "name": "Prediction markets",
+    "profit": 1250,
+    "price": 46946320
+  },
+  {
+    "tab": "Markets",
+    "name": "Web3 integration",
+    "profit": 2670,
+    "price": 65718990
+  },
+  {
+    "tab": "Markets",
+    "name": "DAO",
+    "profit": 777,
+    "price": 10110614
+  },
+  {
+    "tab": "Markets",
+    "name": "P2P trading",
+    "profit": 1230,
+    "price": 16804676
+  },
+  {
+    "tab": "Markets",
+    "name": "Trading bots",
+    "profit": 616,
+    "price": 8402338
+  },
+  {
+    "tab": "Markets",
+    "name": "LayerZero Listing",
+    "profit": 2840,
+    "price": 40011132
+  },
+  {
+    "tab": "Legal",
+    "name": "KYC",
+    "profit": 34,
+    "price": 1011061
+  },
+  {
+    "tab": "Legal",
+    "name": "KYB",
+    "profit": 203,
+    "price": 5055307
+  },
+  {
+    "tab": "Legal",
+    "name": "Legal opinion",
+    "profit": 190,
+    "price": 4001113
+  },
+  {
+    "tab": "Legal",
+    "name": "SEC transparancy",
+    "profit": 190,
+    "price": 4801336
+  },
+  {
+    "tab": "Legal",
+    "name": "Anti money loundering",
+    "profit": 884,
+    "price": 12003340
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence UAE",
+    "profit": 1890,
+    "price": 50553069
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence Europe",
+    "profit": 2430,
+    "price": 50553069
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence Asia",
+    "profit": 1170,
+    "price": 20005566
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence South America",
+    "profit": 1230,
+    "price": 20005566
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence Australia",
+    "profit": 2300,
+    "price": 50553069
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence North America",
+    "profit": 3030,
+    "price": 40011132
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence Nigeria",
+    "profit": 575,
+    "price": 15165921
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence Japan",
+    "profit": 8210,
+    "price": 200055661
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence Ethiopia",
+    "profit": 5690,
+    "price": 140038963
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence India",
+    "profit": 7900,
+    "price": 180050095
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence Bangladesh",
+    "profit": 11060,
+    "price": 280077926
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence Indonesia",
+    "profit": 15790,
+    "price": 400111323
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence Vietnam",
+    "profit": 12640,
+    "price": 340094625
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence Turkey",
+    "profit": 8860,
+    "price": 124690889
+  },
+  {
+    "tab": "Legal",
+    "name": "Licence Philippines",
+    "profit": 19190,
+    "price": 249381778
+  },
+  {
+    "tab": "Web3",
+    "name": "DEX",
+    "profit": 8860,
+    "price": 124690889
+  },
+  {
+    "tab": "Web3",
+    "name": "Oracle",
+    "profit": 2530,
+    "price": 70019482
+  },
+  {
+    "tab": "Web3",
+    "name": "Vesting Smartcontracts",
+    "profit": 3540,
+    "price": 68164353
+  },
+  {
+    "tab": "Web3",
+    "name": "Launchpad",
+    "profit": 8860,
+    "price": 157941793
+  },
+  {
+    "tab": "Web3",
+    "name": "NFT Marketplace",
+    "profit": 5900,
+    "price": 129678525
+  },
+  {
+    "tab": "Web3",
+    "name": "Grant for Developers",
+    "profit": 11810,
+    "price": 166254519
+  },
+  {
+    "tab": "Web3",
+    "name": "NFT Metaverse",
+    "profit": 4820,
+    "price": 79920300
+  },
+  {
+    "tab": "Web3",
+    "name": "Crypto Farming",
+    "profit": 8280,
+    "price": 108804444
+  },
+  {
+    "tab": "Web3",
+    "name": "Sport Collectibles Marketplace",
+    "profit": 2210,
+    "price": 60016698
+  },
+  {
+    "tab": "Web3",
+    "name": "Market Making",
+    "profit": 1900,
+    "price": 68018925
+  },
+  {
+    "tab": "Web3",
+    "name": "Web3 Advertising Platform",
+    "profit": 1180,
+    "price": 21613087
+  },
+  {
+    "tab": "Specials",
+    "name": "Binance listing",
+    "profit": 11060,
+    "price": 300083492
+  },
+  {
+    "tab": "Specials",
+    "name": "Bybit listing",
+    "profit": 11060,
+    "price": 300083492
+  },
+  {
+    "tab": "Specials",
+    "name": "OKX listing",
+    "profit": 11060,
+    "price": 300083492
+  },
+  {
+    "tab": "Specials",
+    "name": "Telegram top ever",
+    "profit": 9480,
+    "price": 212059001
+  },
+  {
+    "tab": "Specials",
+    "name": "Hotel construction",
+    "profit": 11060,
+    "price": 180050095
+  },
+  {
+    "tab": "Specials",
+    "name": "Hiring employees",
+    "profit": 4430,
+    "price": 58189082
+  },
+  {
+    "tab": "Specials",
+    "name": "Setting up business processes",
+    "profit": 2530,
+    "price": 68018925
+  },
+  {
+    "tab": "Specials",
+    "name": "Speaking to employees",
+    "profit": 1180,
+    "price": 16625452
+  },
+  {
+    "tab": "Specials",
+    "name": "Investments in farming",
+    "profit": 12640,
+    "price": 240066794
+  },
+  {
+    "tab": "Specials",
+    "name": "Collection of vintage cars",
+    "profit": 5900,
+    "price": 91439985
+  },
+  {
+    "tab": "Specials",
+    "name": "Launching a rocket to Mars",
+    "profit": 8280,
+    "price": 108804444
+  },
+  {
+    "tab": "Specials",
+    "name": "Electric car production",
+    "profit": 5900,
+    "price": 124690889
+  },
+  {
+    "tab": "Specials",
+    "name": "Speaking on a TV show",
+    "profit": 2840,
+    "price": 80022265
+  },
+  {
+    "tab": "Specials",
+    "name": "Negotiations with partners",
+    "profit": 5900,
+    "price": 74814534
+  },
+  {
+    "tab": "Specials",
+    "name": "Company development planning",
+    "profit": 2530,
+    "price": 60016698
+  },
+  {
+    "tab": "Specials",
+    "name": "Communication with a mentor",
+    "profit": 2950,
+    "price": 41563630
+  },
+  {
+    "tab": "Specials",
+    "name": "Hamster with friends",
+    "profit": 948,
+    "price": 20005566
+  },
+  {
+    "tab": "Specials",
+    "name": "Hamster helps whales",
+    "profit": 6320,
+    "price": 124034510
+  },
+  {
+    "tab": "Specials",
+    "name": "Vipassana hamster",
+    "profit": 1900,
+    "price": 36010019
+  },
+  {
+    "tab": "Specials",
+    "name": "University hamster",
+    "profit": 3480,
+    "price": 92025604
+  },
+  {
+    "tab": "Specials",
+    "name": "Gym hamster",
+    "profit": 1480,
+    "price": 19950542
+  },
+  {
+    "tab": "Specials",
+    "name": "Healthy nutrition hamster",
+    "profit": 2530,
+    "price": 68018925
+  },
+  {
+    "tab": "Specials",
+    "name": "Sleeping hamster",
+    "profit": 1770,
+    "price": 24938178
+  },
+  {
+    "tab": "Specials",
+    "name": "HamsterGPT",
+    "profit": 5310,
+    "price": 91439985
+  },
+  {
+    "tab": "Specials",
+    "name": "HamsterBank",
+    "profit": 60020,
+    "price": 1200333969
+  },
+  {
+    "tab": "Specials",
+    "name": "Telegram Stars integration",
+    "profit": 2530,
+    "price": 68018925
+  },
+  {
+    "tab": "Specials",
+    "name": "Telegram Miniapp Launch",
+    "profit": 2950,
+    "price": 41563630
+  },
+  {
+    "tab": "Specials",
+    "name": "Hamster Analytics",
+    "profit": 5900,
+    "price": 124690889
+  },
+  {
+    "tab": "Specials",
+    "name": "50M Telegram channel",
+    "profit": 2760,
+    "price": 36268148
+  },
+  {
+    "tab": "Specials",
+    "name": "HamsterStore launch",
+    "profit": 15790,
+    "price": 380105757
+  },
+  {
+    "tab": "Specials",
+    "name": "HamsterWatch for soulmate",
+    "profit": 2110,
+    "price": 42813036
+  },
+  {
+    "tab": "Specials",
+    "name": "Call for BTC to rise",
+    "profit": 10520,
+    "price": 214065181
+  },
+  {
+    "tab": "Specials",
+    "name": "Business jet",
+    "profit": 4820,
+    "price": 66192184
+  },
+  {
+    "tab": "Specials",
+    "name": "CX Hub Istanbul",
+    "profit": 9480,
+    "price": 220061228
+  },
+  {
+    "tab": "Specials",
+    "name": "Hamsters break records",
+    "profit": 7090,
+    "price": 166148565
+  },
+  {
+    "tab": "Specials",
+    "name": "X Network 10 Million",
+    "profit": 1260,
+    "price": 28007793
+  },
+  {
+    "tab": "Specials",
+    "name": "Hamster Green energy",
+    "profit": 6760,
+    "price": 171880436
+  },
+  {
+    "tab": "Specials",
+    "name": "YouTube 25 Million",
+    "profit": 7100,
+    "price": 181991049
+  },
+  {
+    "tab": "Specials",
+    "name": "TG Leaders",
+    "profit": 7770,
+    "price": 222433505
+  },
+  {
+    "tab": "Specials",
+    "name": "Premarket Launch",
+    "profit": 19340,
+    "price": 332297129
+  },
+  {
+    "tab": "Specials",
+    "name": "Hamster Kombat merch",
+    "profit": 295,
+    "price": 4987636
+  },
+  {
+    "tab": "Specials",
+    "name": "TON + Hamster Kombat = Success",
+    "profit": 12050,
+    "price": 159840601
+  },
+  {
+    "tab": "Specials",
+    "name": "Consensus Piranha Pass",
+    "profit": 5610,
+    "price": 83127259
+  },
+  {
+    "tab": "Specials",
+    "name": "Web3 academy launch",
+    "profit": 5070,
+    "price": 111216752
+  },
+  {
+    "tab": "Specials",
+    "name": "YouTube Gold Button",
+    "profit": 929,
+    "price": 25276535
+  },
+  {
+    "tab": "Specials",
+    "name": "Hamster YouTube Channel",
+    "profit": 845,
+    "price": 15165921
+  },
+  {
+    "tab": "Specials",
+    "name": "Bitcoin Pizza Day",
+    "profit": 316,
+    "price": 4001113
+  },
+  {
+    "tab": "Specials",
+    "name": "Top 10 Global Ranking",
+    "profit": 4059.9999999999995,
+    "price": 101106139
+  },
+  {
+    "tab": "Specials",
+    "name": "NFT Collection Launch",
+    "profit": 3790,
+    "price": 68018925
+  },
+  {
+    "tab": "Specials",
+    "name": "Special Hamster Conference",
+    "profit": 3040,
+    "price": 50553069
+  },
+  {
+    "tab": "Specials",
+    "name": "Short squeeze",
+    "profit": 2950,
+    "price": 58189082
+  },
+  {
+    "tab": "Specials",
+    "name": "There are two chairs...",
+    "profit": 5900,
+    "price": 83127259
+  },
+  {
+    "tab": "Specials",
+    "name": "Long squeeze",
+    "profit": 6320,
+    "price": 120033397
+  },
+  {
+    "tab": "Specials",
+    "name": "Villa for the DEV team",
+    "profit": 1520,
+    "price": 20221228
+  },
+  {
+    "tab": "Specials",
+    "name": "Apps Center Listing",
+    "profit": 3160,
+    "price": 60016698
+  },
+  {
+    "tab": "Specials",
+    "name": "Bogdanoff is calling",
+    "profit": 1500,
+    "price": 20005566
+  },
+  {
+    "tab": "Specials",
+    "name": "USDT on TON",
+    "profit": 4560,
+    "price": 101106139
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "cookies": [
+    {
+      "name": "stel_web_auth",
+      "value": "https%3A%2F%2Fweb.telegram.org%2Fk%2F",
+      "domain": "telegram.me",
+      "path": "/",
+      "expires": 1749825868.441561,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stel_web_auth",
+      "value": "https%3A%2F%2Fweb.telegram.org%2Fk%2F",
+      "domain": "t.me",
+      "path": "/",
+      "expires": 1749578795.443424,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://web.telegram.org",
+      "localStorage": [
+        {
+          "name": "k_build",
+          "value": "512"
+        },
+        {
+          "name": "dc5_server_salt",
+          "value": "\"85bcea8938562990\""
+        },
+        {
+          "name": "user_auth",
+          "value": "{\"dcID\":2,\"date\":1718128123,\"id\":945023931}"
+        },
+        {
+          "name": "xt_instance",
+          "value": "{\"id\":15986175,\"idle\":true,\"time\":1718128126022}"
+        },
+        {
+          "name": "dc",
+          "value": "2"
+        },
+        {
+          "name": "dc4_auth_key",
+          "value": "\"9b00dee57302172e509879a5c7071431dd6af5c27b79fea634a27ff29f3a5a15b1000fd1ccd1dee1a676b64e04889cc1604a421295b21aad7a161cc94f52d43a923c7f4a64cce294325386c24a602b080d26fa608ed99a5d832336b0011c922d63b5c3997efef915bd864a1c061e67368381a31a0986fb53c26f2743ad94a8673f2feb68a40c09ff680a8575f78c48bdfe2986369fde9988829fe0ac932271f7ec27ad9f7f43fad7a31db2c09d754bd233a22011a548b94bc8dc394641f20fc700d61404370961f77d4a035f81ac8993ec303c1f241b2c339e3df716a5920bc1708b404f46950a2dc83c7035f8ee3e1a7d3792c9077bfd782bdf19c69c654e62\""
+        },
+        {
+          "name": "dc2_auth_key",
+          "value": "\"599c99832c693f9f6456621a51a758f87be028749ee87f0ba00f6e1a9a65789316650582a1cbafa914ebbbd5aab5e8bc6f94aac7e4c0832e8edb00628da916249510bd504d733999951c1f68d38f2d7830e898fa7556724dbb95a15fe654acc6a9599bfd5433846cd41f724dd45915ae4089b4d4a5b22849c16ac1f56aeb2936f08451eb9c8bc5490e00895ca72aac99ee93b586163660e35d3bac227e6c35e14bb3dd87c90b14d1b6b7863091c8638cbd1e4568ec1e702f1ceae98b088dbfadc474a810a103181e8abeef867edc851da19ba7fb5a075315f0eb3272b065cafd53345f49f80533277e7883ab0748edf449fc926544e5a2be0541239c8acf981b\""
+        },
+        {
+          "name": "dc4_server_salt",
+          "value": "\"af4c1253e84c4bb4\""
+        },
+        {
+          "name": "tgme_sync",
+          "value": "{\"canRedirect\":true,\"ts\":1718128124}"
+        },
+        {
+          "name": "server_time_offset",
+          "value": "6"
+        },
+        {
+          "name": "dc2_server_salt",
+          "value": "\"d5e3118dda6d3877\""
+        },
+        {
+          "name": "state_id",
+          "value": "2577080965"
+        },
+        {
+          "name": "auth_key_fingerprint",
+          "value": "\"599c9983\""
+        },
+        {
+          "name": "dc1_auth_key",
+          "value": "\"a3b878b004cf1a2b36630691dcef99d1cc114bbc299d0829ff2a5b2023f83485d4d7173b466ae9d93dce097eb1c2018f9d9b12048f29f0c6b9fea789eb72d05dd2e0b35dab79d1872623ede2354e5e27931ce17066770855ea2117e5f9127412961c2c314519390570f7b5da071228cf6628e85c7cf39f8cc78d1bd8ae773d1084dde8ba62be5e0227ba599593ae7b4ada426ebeee07644b411697eb5f140fbad421af1bfcfcd4d699c39abe26683ea4e630de6551dc4d6e60a32e809fe140690ce5062ea46b78642e5d06785eb1251d8b71b69b55569f6eb44819e29a345259ee8a916ecf39c4fed7d36b44797d8cde9201f2fb70e20c1262e329076070094d\""
+        },
+        {
+          "name": "dc1_server_salt",
+          "value": "\"48ffee88c1492d7c\""
+        },
+        {
+          "name": "dc5_auth_key",
+          "value": "\"0496e339d62e19757a48321fd110a12c469f77de0508284a933a2a02c4393049646e9a840847eaf6c2ebbf1b07c2d5eed28dd9fa9d5e7a5f3c1d0a927c231ee8977df878a7ed868e667d035804f4d182ffd8f8a1b342bfb2758f593ec30495009779d5cd65a8a33a572047d4364a2dac41dd7d92fc52ed4124db4a501d337e834125332997f60594ad4bdced0d0eab85fbcec83f1a5b9b58f08c7b04d36f2d5600a7af84698b20366f0e5df35286641c46d037ad3b0492d4315c8db7e9f74365f4d08c01f20095eb24239c8f7f1c95bc5b797f1846ceb44cbac8c78097f124b9b7d0d4253865cfcdf14970bce0616912c1567adef3def3e3aa6952c42fb9f177\""
+        }
+      ]
+    }
+  ]
+}
